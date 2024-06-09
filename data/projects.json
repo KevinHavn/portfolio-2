@@ -1,21 +1,21 @@
 [
 	{
 		"title": "Noroff Auction House",
-		"image": "/noroffauctionhouse.png",
+		"image": "portfolio-2/noroffauctionhouse.png",
 		"description": "An auction site where users should be able to bid on listings other users publish. The site provides a platform for sellers to list their items with detailed descriptions and photos. Buyers can place bids on items of interest, with the highest bid winning the auction. The site includes real-time bid updates and notifications to keep users informed about their bidding status.",
 		"demo": "https://kevinhavn.github.io/auction-site-client/",
 		"repository": "https://github.com/KevinHavn/auction-site-client"
 	},
 	{
 		"title": "Javascript Frameworks",
-		"image": "/javascriptframeworks.png",
+		"image": "portfolio-2/javascriptframeworks.png",
 		"description": "An e-com store where users are able to search for a variety of different items. The platform is built using popular JavaScript frameworks to ensure a seamless and efficient user experience. Users can browse categories, view product details, and add items to their cart. The site also includes user authentication and secure payment processing to enhance the shopping experience.",
 		"demo": "https://javascriptframeworkscourseassignment.netlify.app/",
 		"repository": "https://github.com/KevinHavn/JavaScript-Frameworks-Course-Assignment"
 	},
 	{
 		"title": "Holidaze",
-		"image": "/holidaze.png",
+		"image": "portfolio-2/holidaze.png",
 		"description": "A holiday venue booking site where users can register as either a venue manager to upload and manage their venues, or a user which can explore different venues and create a booking. Venue managers can provide detailed descriptions, availability, and pricing for their venues. Users can search for venues based on location, date, and other preferences, and make secure bookings directly through the site.",
 		"demo": "https://kevinhavn.github.io/Project-Exam-2/",
 		"repository": "https://github.com/KevinHavn/Project-Exam-2"
